@@ -25,3 +25,7 @@ def select_of_employee():
         data = cursor.fetchall()
     print(data)
 select_of_department()
+
+'''
+firdavs boysunov
+'''
